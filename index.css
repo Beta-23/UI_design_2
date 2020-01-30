@@ -15,15 +15,19 @@ body {
 .card {
     background: white;
 }
+.content {
+    padding: 1em;
+}
 span {
-    height: 100px;
+    height: 35px;
     display: block;
     width: 100%;
     background: #66C010;
 }
 
 p.date {
-    text-align: center;
+    text-align: left;
+    margin: 1px;
     font-size: .7em;
     text-transform: uppercase;
 }
@@ -33,5 +37,6 @@ h3 {
 }
 p.desc {
     font-size: .9em;
+    margin-bottom: 0;
     color: #002145;
 }

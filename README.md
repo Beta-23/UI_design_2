@@ -1,2 +1,12 @@
 # UI_design_2
-HTML, CSS, JS 
+
+## Basic card template using:
+
+```HTML
+```
+```CSS
+```
+```JavaScript
+``` 
+
+
