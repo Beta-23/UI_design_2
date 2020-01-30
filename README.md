@@ -2,11 +2,14 @@
 
 ## Basic card template using:
 
-```HTML
 ```
-```CSS
+<html />
 ```
-```JavaScript
+```
+css
+```
+```
+<script />
 ``` 
 
 
